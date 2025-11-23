@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa generator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa generator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa generator.AssemblyInfo.cs
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa generator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\2fa generator.exe
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\2fa generator.deps.json
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\2fa generator.runtimeconfig.json
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\2fa generator.dll
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\2fa generator.pdb
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\QRCoder.dll
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Outros\2fa generator\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa gene.86DE83C8.Up2Date
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa generator.dll
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\refint\2fa generator.dll
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa generator.pdb
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\2fa generator.genruntimeconfig.cache
+C:\Users\User\Desktop\Outros\2fa generator\obj\Debug\net9.0\ref\2fa generator.dll
